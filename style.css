@@ -1,0 +1,5 @@
+.navbar-logo {
+  height: 32px;          /* logiczna wysokość navbaru */
+  transform: scale(3);   /* wizualne powiększenie */
+  transform-origin: left center;
+}
