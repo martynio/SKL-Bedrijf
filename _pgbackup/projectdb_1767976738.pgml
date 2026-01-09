@@ -11,7 +11,7 @@
                 <dmcolor key="danger" color="#dc3545"/>
                 <dmcolor key="white" color="white"/>
                 <dmcolor key="light" color="#f8f9fa"/>
-                <dmcolor key="dark" color="#0b1e3a"/>
+                <dmcolor key="dark" color="#0e87ff"/>
             </dmdesignskill>
             <dmdesignskill skill="fonts"></dmdesignskill>
             <dmdesignskill skill="headings"></dmdesignskill>
